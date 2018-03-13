@@ -1,0 +1,6 @@
+
+      # -*- Entry points: -*-
+      [console_scripts]
+      init_used_rid_db = reviewboardsvnhooks.init_used_rid_db:main
+      strict_review = reviewboardsvnhooks.strict_review:main
+      

@@ -1,0 +1,15 @@
+MANIFEST.in
+setup.cfg
+setup.py
+versiontools_support.py
+conf_templates/conf.ini
+reviewboard_svn_hooks.egg-info/PKG-INFO
+reviewboard_svn_hooks.egg-info/SOURCES.txt
+reviewboard_svn_hooks.egg-info/dependency_links.txt
+reviewboard_svn_hooks.egg-info/entry_points.txt
+reviewboard_svn_hooks.egg-info/not-zip-safe
+reviewboard_svn_hooks.egg-info/top_level.txt
+reviewboardsvnhooks/__init__.py
+reviewboardsvnhooks/init_used_rid_db.py
+reviewboardsvnhooks/strict_review.py
+reviewboardsvnhooks/utils.py
